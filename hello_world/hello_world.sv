@@ -1,10 +1,10 @@
-// Simple adder/subtractor module
+// Simple Hello World module
 module dut(dut_if dif);
 endmodule
 
 
 //---------------------------------------
-// Interface for the adder/subtractor DUT
+// Interface Hello World
 //---------------------------------------
 interface dut_if(
 
